@@ -1,0 +1,13 @@
+{
+  "name": "gamemaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "debug": "node --inspect-brk ./main.js",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
