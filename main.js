@@ -23,10 +23,10 @@ itemTemplates.forEach(template => {
 })	
 
 let FORM_TABLE = {
-    V0103_POKEMON_EXEGGUTOR_ALOLA:  { id: 10000, form: { parent: 103, loc: { fr: 'Alola', en: 'Alola)' }}},
-    V0351_POKEMON_CASTFORM_RAINY:   { id: 10001, form: { parent: 351, loc: { fr: 'Pluie', en: 'Rainy)' }}},
-    V0351_POKEMON_CASTFORM_SNOWY:   { id: 10002, form: { parent: 351, loc: { fr: 'Neige', en: 'Snowy)' }}},
-    V0351_POKEMON_CASTFORM_SUNNY:   { id: 10003, form: { parent: 351, loc: { fr: 'Soleil', en: 'Sunny)' }}},
+    V0103_POKEMON_EXEGGUTOR_ALOLA:  { id: 10000, form: { parent: 103, loc: { fr: 'Alola', en: 'Alola' }}},
+    V0351_POKEMON_CASTFORM_RAINY:   { id: 10001, form: { parent: 351, loc: { fr: 'Pluie', en: 'Rainy' }}},
+    V0351_POKEMON_CASTFORM_SNOWY:   { id: 10002, form: { parent: 351, loc: { fr: 'Neige', en: 'Snowy' }}},
+    V0351_POKEMON_CASTFORM_SUNNY:   { id: 10003, form: { parent: 351, loc: { fr: 'Soleil', en: 'Sunny' }}},
     V0386_POKEMON_DEOXYS_ATTACK:    { id: 10004, form: { parent: 386, loc: { fr: 'Attaque', en: 'Attack' }}},
     V0386_POKEMON_DEOXYS_DEFENSE:   { id: 10005, form: { parent: 386, loc: { fr: 'Défense', en: 'Defense' }}},
     V0386_POKEMON_DEOXYS_SPEED:     { id: 10006, form: { parent: 386, loc: { fr: 'Vitesse', en: 'Speed' }}}
