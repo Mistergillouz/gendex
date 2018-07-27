@@ -44,6 +44,12 @@ let FORM_TABLE = {
 
     POKEMON_GRIMER_ALOLA: { id: 10015, form: { parent: 88, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10016 ]},
     POKEMON_MUK_ALOLA:  { id: 10016, form: { parent: 89, loc: { fr: 'Alola', en: 'Alola' }}},
+
+    POKEMON_GEODUDE_ALOLA:  { id: 10017, form: { parent: 74, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10018 ]},
+    POKEMON_GRAVELER_ALOLA: { id: 10018, form: { parent: 75, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10019 ]},
+    POKEMON_GOLEM_ALOLA:  { id: 10019, form: { parent: 76, loc: { fr: 'Alola', en: 'Alola' }}},
+
+    POKEMON_MAROWAK_ALOLA:  { id: 10020, form: { parent: 105, loc: { fr: 'Alola', en: 'Alola' }}},
     
 }
 
