@@ -22,7 +22,7 @@ itemTemplates.forEach(template => {
 })	
 
 let FORM_TABLE = {
-    V0103_POKEMON_EXEGGUTOR_ALOLA:  { id: 10000, form: { parent: 103, loc: { fr: 'Alola', en: 'Alola' }}},
+    
     V0351_POKEMON_CASTFORM_RAINY:   { id: 10001, form: { parent: 351, loc: { fr: 'Pluie', en: 'Rainy' }}},
     V0351_POKEMON_CASTFORM_SNOWY:   { id: 10002, form: { parent: 351, loc: { fr: 'Neige', en: 'Snowy' }}},
     V0351_POKEMON_CASTFORM_SUNNY:   { id: 10003, form: { parent: 351, loc: { fr: 'Soleil', en: 'Sunny' }}},
@@ -51,6 +51,8 @@ let FORM_TABLE = {
     POKEMON_GOLEM_ALOLA:  { id: 10019, form: { parent: 76, alola: true, loc: { fr: 'Alola', en: 'Alola' }}},
 
     POKEMON_MAROWAK_ALOLA:  { id: 10020, form: { parent: 105, alola: true, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_EXEGGUTOR_ALOLA:  { id: 10000, form: { parent: 103, alola: true, loc: { fr: 'Alola', en: 'Alola' }}}
+
     
 }
 
