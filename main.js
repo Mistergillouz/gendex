@@ -26,30 +26,31 @@ let FORM_TABLE = {
     V0351_POKEMON_CASTFORM_RAINY:   { id: 10001, form: { parent: 351, loc: { fr: 'Pluie', en: 'Rainy' }}},
     V0351_POKEMON_CASTFORM_SNOWY:   { id: 10002, form: { parent: 351, loc: { fr: 'Neige', en: 'Snowy' }}},
     V0351_POKEMON_CASTFORM_SUNNY:   { id: 10003, form: { parent: 351, loc: { fr: 'Soleil', en: 'Sunny' }}},
+
     V0386_POKEMON_DEOXYS_ATTACK:    { id: 10004, form: { parent: 386, loc: { fr: 'Attaque', en: 'Attack' }}},
     V0386_POKEMON_DEOXYS_DEFENSE:   { id: 10005, form: { parent: 386, loc: { fr: 'Défense', en: 'Defense' }}},
     V0386_POKEMON_DEOXYS_SPEED:     { id: 10006, form: { parent: 386, loc: { fr: 'Vitesse', en: 'Speed' }}},
 
-    POKEMON_RATTATA_ALOLA:  { id: 10007, form: { parent: 19, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10008 ] },
-    POKEMON_RATICATE_ALOLA: { id: 10008, form: { parent: 20, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_RATTATA_ALOLA:  { id: 10007, alola: true, form: { parent: 19, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10008 ] },
+    POKEMON_RATICATE_ALOLA: { id: 10008, alola: true, form: { parent: 20, loc: { fr: 'Alola', en: 'Alola' }}},
 
-    POKEMON_SANDSHREW_ALOLA: { id: 10009, form: { parent: 27, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10010 ]},
-    POKEMON_SANDSLASH_ALOLA: { id: 10010, form: { parent: 28, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_SANDSHREW_ALOLA: { id: 10009, alola: true, form: { parent: 27, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10010 ]},
+    POKEMON_SANDSLASH_ALOLA: { id: 10010, alola: true, form: { parent: 28, loc: { fr: 'Alola', en: 'Alola' }}},
 
-    POKEMON_VULPIX_ALOLA: { id: 10011, form: { parent: 37, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10012 ]},
-    POKEMON_NINETALES_ALOLA: { id: 10012, form: { parent: 38, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_VULPIX_ALOLA: { id: 10011, alola: true, form: { parent: 37, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10012 ]},
+    POKEMON_NINETALES_ALOLA: { id: 10012, alola: true, form: { parent: 38, loc: { fr: 'Alola', en: 'Alola' }}},
 
-    POKEMON_MEOWTH_ALOLA: { id: 10013, form: { parent: 52, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10014 ]},
-    POKEMON_PERSIAN_ALOLA: { id: 10014, form: { parent: 53, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_MEOWTH_ALOLA: { id: 10013, alola: true, form: { parent: 52, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10014 ]},
+    POKEMON_PERSIAN_ALOLA: { id: 10014, alola: true, form: { parent: 53, loc: { fr: 'Alola', en: 'Alola' }}},
 
-    POKEMON_GRIMER_ALOLA: { id: 10015, form: { parent: 88, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10016 ]},
-    POKEMON_MUK_ALOLA:  { id: 10016, form: { parent: 89, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_GRIMER_ALOLA: { id: 10015, alola: true, form: { parent: 88, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10016 ]},
+    POKEMON_MUK_ALOLA:  { id: 10016, alola: true, form: { parent: 89, loc: { fr: 'Alola', en: 'Alola' }}},
 
-    POKEMON_GEODUDE_ALOLA:  { id: 10017, form: { parent: 74, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10018 ]},
-    POKEMON_GRAVELER_ALOLA: { id: 10018, form: { parent: 75, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10019 ]},
-    POKEMON_GOLEM_ALOLA:  { id: 10019, form: { parent: 76, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_GEODUDE_ALOLA:  { id: 10017, alola: true, form: { parent: 74, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10018 ]},
+    POKEMON_GRAVELER_ALOLA: { id: 10018, alola: true, form: { parent: 75, loc: { fr: 'Alola', en: 'Alola' }}, evolves: [ 10019 ]},
+    POKEMON_GOLEM_ALOLA:  { id: 10019, alola: true, form: { parent: 76, loc: { fr: 'Alola', en: 'Alola' }}},
 
-    POKEMON_MAROWAK_ALOLA:  { id: 10020, form: { parent: 105, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_MAROWAK_ALOLA:  { id: 10020, alola: true, form: { parent: 105, loc: { fr: 'Alola', en: 'Alola' }}},
     
 }
 
