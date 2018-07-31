@@ -50,6 +50,8 @@ let FORM_TABLE = {
     POKEMON_GOLEM_ALOLA:  { id: 10019, form: { parent: 76, loc: { fr: 'Alola', en: 'Alola' }}},
 
     POKEMON_MAROWAK_ALOLA:  { id: 10020, form: { parent: 105, loc: { fr: 'Alola', en: 'Alola' }}},
+
+    POKEMON_RAICHU_ALOLA:   { id: 10021, form: { parent: 26, loc: { fr: 'Alola', en: 'Alola' }}},
     
 }
 
