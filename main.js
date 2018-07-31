@@ -53,9 +53,9 @@ let FORM_TABLE = {
     POKEMON_MAROWAK_ALOLA:  { id: 10020, form: { parent: 105, alola: true, loc: { fr: 'Alola', en: 'Alola' }}},
     POKEMON_EXEGGUTOR_ALOLA:  { id: 10000, form: { parent: 103, alola: true, loc: { fr: 'Alola', en: 'Alola' }}},
 
-    POKEMON_MAROWAK_ALOLA:  { id: 10020, form: { parent: 105, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_MAROWAK_ALOLA:  { id: 10020, form: { parent: 105, alola: true, loc: { fr: 'Alola', en: 'Alola' }}},
 
-    POKEMON_RAICHU_ALOLA:   { id: 10021, form: { parent: 26, loc: { fr: 'Alola', en: 'Alola' }}},
+    POKEMON_RAICHU_ALOLA:   { id: 10021, form: { parent: 26, alola: true, loc: { fr: 'Alola', en: 'Alola' }}},
     
 }
 
