@@ -26,6 +26,8 @@ let FORM_TABLE = {
     V0351_POKEMON_CASTFORM_RAINY:   { id: 10001, form: { parent: 351, loc: { fr: 'Pluie', en: 'Rainy' }}},
     V0351_POKEMON_CASTFORM_SNOWY:   { id: 10002, form: { parent: 351, loc: { fr: 'Neige', en: 'Snowy' }}},
     V0351_POKEMON_CASTFORM_SUNNY:   { id: 10003, form: { parent: 351, loc: { fr: 'Soleil', en: 'Sunny' }}},
+    // ignore
+    V0386_POKEMON_DEOXYS_NORMAL:    {}, 
 
     V0386_POKEMON_DEOXYS_ATTACK:    { id: 10004, form: { parent: 386, loc: { fr: 'Attaque', en: 'Attack' }}},
     V0386_POKEMON_DEOXYS_DEFENSE:   { id: 10005, form: { parent: 386, loc: { fr: 'Défense', en: 'Defense' }}},
@@ -63,19 +65,18 @@ const CP_MULT = 0.79030001
 
 // Create special form pokemons
 Object.keys(FORM_TABLE).forEach((key, index) => {
-    const entry = FORM_TABLE[key], pokemonId = entry.form.parent, pokemon = pokedex.pokemons[pokemonId]
-    let updates = { id: entry.id, form: entry.form }
-    if (entry.evolves) {
-        updates.evolves = entry.evolves
+    const entry = FORM_TABLE[key]
+    if (entry.id) {
+        const pokemonId = entry.form.parent
+        let updates = { id: entry.id, form: entry.form }
+        if (entry.evolves) {
+            updates.evolves = entry.evolves
+        }
+        pokedex.pokemons[entry.id] = Object.assign({}, pokedex.pokemons[pokemonId], updates)
     }
-    pokedex.pokemons[entry.id] = Object.assign({}, pokedex.pokemons[pokemonId], updates)
 })
 
 Object.keys(templatesMap).forEach(templateId => {
-
-    if (templateId.indexOf('ALOLA') !== -1) {
-        debugger
-    }
 
     let id = getPokemonFromTemplateId(templateId)
     if (!id) {
@@ -114,7 +115,6 @@ Object.keys(templatesMap).forEach(templateId => {
         }
     })
 
-    const sourcePokemonId = getPokemonFromTemplateId(templateId, true)
     let candy = settings.candyToEvolve || pokemon.candy
 
     let atk = stats.baseAttack, def = stats.baseDefense, sta = stats.baseStamina
@@ -342,26 +342,4 @@ function getPokemonFromTemplateId(templateId, ignoreFormTable) {
 
     let matches = templateId.match(new RegExp(/\d+/))
     return matches ? Number(matches[0]) : null
-}
-
-function buildFormsTable (templatesMap) {
-    const POKEMON = 'POKEMON'
-    Object.keys(templatesMap).forEach(id => {
-        if (!id.startsWith("SPAWN_")) {
-            return
-        }
-
-        let pokemonId = getPokemonFromTemplateId(id)
-        if (!pokemonId) {
-            return
-        }
-
-        let start = id.indexOf(POKEMON) + POKEMON.length, end = id.lastIndexOf('_')
-        if (start === end) {
-            return
-        }
-
-        console.log(id)
-        //"SPAWN_V0351_POKEMON_CASTFORM_NORMAL
-    })
 }
