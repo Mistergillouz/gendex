@@ -105,6 +105,7 @@ Object.keys(templatesMap).forEach(templateId => {
     let stats = settings.stats
     
     if (settings.type === settings.type2) {
+        console.warn('Duplicate types for', pokemon.name)
         settings.type2 = null
     }
 
