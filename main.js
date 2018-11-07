@@ -104,6 +104,10 @@ Object.keys(templatesMap).forEach(templateId => {
     let settings = template.pokemonSettings
     let stats = settings.stats
     
+    if (settings.type === settings.type2) {
+        settings.type2 = null
+    }
+
     // Species
     let types = [ settings.type, settings.type2 ], species = []
     types.forEach(type => {
@@ -115,8 +119,7 @@ Object.keys(templatesMap).forEach(templateId => {
         }
     })
 
-    let candy = settings.candyToEvolve || pokemon.candy
-
+    let candy = settings.evolutionBranch ? settings.evolutionBranch.candyCost : settings.candyToEvolve
     let atk = stats.baseAttack, def = stats.baseDefense, sta = stats.baseStamina
     let fastAttacks = _handleAttacks(settings.quickMoves, templatesMap, attacksMap, true)
     let chargedAttacks = _handleAttacks(settings.cinematicMoves, templatesMap, attacksMap, false)
