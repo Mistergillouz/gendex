@@ -120,7 +120,7 @@ Object.keys(templatesMap).forEach(templateId => {
         }
     })
 
-    let candy = settings.evolutionBranch ? settings.evolutionBranch.candyCost : settings.candyToEvolve
+    let candy = settings.evolutionBranch ? settings.evolutionBranch.candyCost : 0
     let atk = stats.baseAttack, def = stats.baseDefense, sta = stats.baseStamina
     let fastAttacks = _handleAttacks(settings.quickMoves, templatesMap, attacksMap, true)
     let chargedAttacks = _handleAttacks(settings.cinematicMoves, templatesMap, attacksMap, false)
@@ -133,7 +133,7 @@ Object.keys(templatesMap).forEach(templateId => {
         atk: atk,
         def: def,
         sta: sta,
-        buddy: settings.kmBuddyDistance + ' KM' || '',
+        buddy: settings.kmBuddyDistance,
         attacks: {
             fast: fastAttacks,
             charged: chargedAttacks
