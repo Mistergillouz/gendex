@@ -19,11 +19,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1115,
+         "cpmax": 981,
          "candy": 25,
          "atk": 118,
-         "def": 111,
-         "sta": 128,
+         "def": 118,
+         "sta": 90,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -56,11 +56,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1699,
+         "cpmax": 1552,
          "candy": 100,
          "atk": 151,
-         "def": 143,
-         "sta": 155,
+         "def": 151,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -90,11 +90,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2720,
+         "cpmax": 2568,
          "candy": 0,
          "atk": 198,
-         "def": 189,
-         "sta": 190,
+         "def": 198,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -126,11 +126,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 980,
+         "cpmax": 831,
          "candy": 25,
          "atk": 116,
-         "def": 93,
-         "sta": 118,
+         "def": 96,
+         "sta": 78,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -162,11 +162,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1653,
+         "cpmax": 1484,
          "candy": 100,
          "atk": 158,
-         "def": 126,
-         "sta": 151,
+         "def": 129,
+         "sta": 116,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -196,11 +196,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2889,
+         "cpmax": 2686,
          "candy": 0,
          "atk": 223,
-         "def": 173,
-         "sta": 186,
+         "def": 176,
+         "sta": 156,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -232,11 +232,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 946,
+         "cpmax": 808,
          "candy": 25,
          "atk": 94,
-         "def": 121,
-         "sta": 127,
+         "def": 122,
+         "sta": 88,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -268,11 +268,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1488,
+         "cpmax": 1324,
          "candy": 100,
          "atk": 126,
          "def": 155,
-         "sta": 153,
+         "sta": 118,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -301,11 +301,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2466,
+         "cpmax": 2291,
          "candy": 0,
          "atk": 171,
-         "def": 207,
-         "sta": 188,
+         "def": 210,
+         "sta": 158,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -337,11 +337,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 437,
+         "cpmax": 393,
          "candy": 12,
          "atk": 55,
-         "def": 55,
-         "sta": 128,
+         "def": 62,
+         "sta": 90,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -371,11 +371,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 450,
+         "cpmax": 419,
          "candy": 50,
          "atk": 45,
-         "def": 80,
-         "sta": 137,
+         "def": 94,
+         "sta": 100,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -403,11 +403,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1827,
+         "cpmax": 1701,
          "candy": 0,
          "atk": 167,
-         "def": 137,
-         "sta": 155,
+         "def": 151,
+         "sta": 120,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -440,11 +440,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 456,
+         "cpmax": 397,
          "candy": 12,
          "atk": 63,
-         "def": 50,
-         "sta": 120,
+         "def": 55,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -475,11 +475,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 432,
+         "cpmax": 392,
          "candy": 50,
          "atk": 46,
-         "def": 75,
-         "sta": 128,
+         "def": 86,
+         "sta": 90,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -507,11 +507,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1846,
+         "cpmax": 1777,
          "candy": 0,
          "atk": 169,
-         "def": 130,
-         "sta": 163,
+         "def": 150,
+         "sta": 130,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -544,11 +544,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 680,
+         "cpmax": 580,
          "candy": 12,
          "atk": 85,
-         "def": 73,
-         "sta": 120,
+         "def": 76,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -581,11 +581,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1194,
+         "cpmax": 1085,
          "candy": 50,
          "atk": 117,
-         "def": 105,
-         "sta": 160,
+         "def": 108,
+         "sta": 126,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -615,11 +615,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2129,
+         "cpmax": 1994,
          "candy": 0,
          "atk": 166,
-         "def": 154,
-         "sta": 195,
+         "def": 157,
+         "sta": 166,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -651,11 +651,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 734,
+         "cpmax": 588,
          "candy": 25,
          "atk": 103,
          "def": 70,
-         "sta": 102,
+         "sta": 60,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -684,11 +684,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1730,
+         "cpmax": 1549,
          "candy": 0,
          "atk": 161,
-         "def": 139,
-         "sta": 146,
+         "def": 144,
+         "sta": 110,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -721,11 +721,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 798,
+         "cpmax": 673,
          "candy": 50,
          "atk": 112,
-         "def": 60,
-         "sta": 120,
+         "def": 61,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -755,11 +755,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1997,
+         "cpmax": 1814,
          "candy": 0,
          "atk": 182,
-         "def": 133,
-         "sta": 163,
+         "def": 135,
+         "sta": 130,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -791,11 +791,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 927,
+         "cpmax": 778,
          "candy": 50,
          "atk": 110,
-         "def": 97,
-         "sta": 111,
+         "def": 102,
+         "sta": 70,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -824,11 +824,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1921,
+         "cpmax": 1737,
          "candy": 0,
          "atk": 167,
-         "def": 153,
-         "sta": 155,
+         "def": 158,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -860,11 +860,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 938,
+         "cpmax": 787,
          "candy": 50,
          "atk": 112,
-         "def": 96,
-         "sta": 111,
+         "def": 101,
+         "sta": 70,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -893,11 +893,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2182,
+         "cpmax": 2025,
          "candy": 0,
          "atk": 193,
-         "def": 151,
-         "sta": 155,
+         "def": 165,
+         "sta": 120,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -929,11 +929,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1261,
+         "cpmax": 1194,
          "candy": 50,
          "atk": 126,
-         "def": 120,
-         "sta": 137,
+         "def": 145,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -962,11 +962,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2374,
+         "cpmax": 2328,
          "candy": 0,
          "atk": 182,
-         "def": 175,
-         "sta": 181,
+         "def": 202,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -997,11 +997,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 816,
+         "cpmax": 736,
          "candy": 25,
          "atk": 86,
-         "def": 89,
-         "sta": 146,
+         "def": 94,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1032,11 +1032,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 1309,
+         "cpmax": 1218,
          "candy": 100,
          "atk": 117,
-         "def": 120,
-         "sta": 172,
+         "def": 126,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1065,11 +1065,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 2488,
+         "cpmax": 2338,
          "candy": 0,
          "atk": 180,
-         "def": 173,
-         "sta": 207,
+         "def": 174,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1100,11 +1100,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 860,
+         "cpmax": 739,
          "candy": 25,
          "atk": 105,
          "def": 76,
-         "sta": 130,
+         "sta": 92,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1135,11 +1135,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 1393,
+         "cpmax": 1252,
          "candy": 100,
          "atk": 137,
-         "def": 111,
-         "sta": 156,
+         "def": 112,
+         "sta": 122,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1168,11 +1168,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 2567,
+         "cpmax": 2386,
          "candy": 0,
          "atk": 204,
-         "def": 156,
-         "sta": 191,
+         "def": 157,
+         "sta": 162,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1204,11 +1204,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 1155,
+         "cpmax": 1085,
          "candy": 50,
          "atk": 107,
-         "def": 108,
-         "sta": 172,
+         "def": 116,
+         "sta": 140,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -1237,11 +1237,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 2437,
+         "cpmax": 2353,
          "candy": 0,
          "atk": 178,
-         "def": 162,
-         "sta": 216,
+         "def": 171,
+         "sta": 190,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -1273,11 +1273,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 883,
+         "cpmax": 774,
          "candy": 50,
          "atk": 96,
-         "def": 109,
-         "sta": 116,
+         "def": 122,
+         "sta": 76,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1306,11 +1306,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 2279,
+         "cpmax": 2157,
          "candy": 0,
          "atk": 169,
-         "def": 190,
-         "sta": 177,
+         "def": 204,
+         "sta": 146,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1343,11 +1343,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 724,
+         "cpmax": 713,
          "candy": 50,
          "atk": 80,
-         "def": 41,
-         "sta": 251,
+         "def": 44,
+         "sta": 230,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -1377,11 +1377,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 1926,
+         "cpmax": 1906,
          "candy": 0,
          "atk": 156,
-         "def": 90,
-         "sta": 295,
+         "def": 93,
+         "sta": 280,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -1414,11 +1414,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 667,
+         "cpmax": 569,
          "candy": 25,
          "atk": 83,
-         "def": 73,
-         "sta": 120,
+         "def": 76,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -1451,11 +1451,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1976,
+         "cpmax": 1830,
          "candy": 100,
          "atk": 161,
-         "def": 150,
-         "sta": 181,
+         "def": 153,
+         "sta": 150,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -1488,11 +1488,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1228,
+         "cpmax": 1069,
          "candy": 25,
          "atk": 131,
-         "def": 112,
-         "sta": 128,
+         "def": 116,
+         "sta": 90,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1526,11 +1526,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1681,
+         "cpmax": 1512,
          "candy": 100,
          "atk": 153,
-         "def": 136,
-         "sta": 155,
+         "def": 139,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1560,11 +1560,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2559,
+         "cpmax": 2367,
          "candy": 0,
          "atk": 202,
-         "def": 167,
-         "sta": 181,
+         "def": 170,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1597,11 +1597,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1018,
+         "cpmax": 836,
          "candy": 50,
          "atk": 121,
          "def": 99,
-         "sta": 111,
+         "sta": 70,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1631,11 +1631,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1859,
+         "cpmax": 1657,
          "candy": 0,
          "atk": 165,
          "def": 146,
-         "sta": 155,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1668,11 +1668,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1004,
+         "cpmax": 902,
          "candy": 50,
          "atk": 100,
-         "def": 100,
-         "sta": 155,
+         "def": 102,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1702,11 +1702,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2082,
+         "cpmax": 1937,
          "candy": 0,
          "atk": 179,
-         "def": 143,
-         "sta": 172,
+         "def": 150,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1738,11 +1738,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 676,
+         "cpmax": 465,
          "candy": 50,
          "atk": 109,
-         "def": 78,
-         "sta": 67,
+         "def": 88,
+         "sta": 20,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1771,11 +1771,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1557,
+         "cpmax": 1333,
          "candy": 0,
          "atk": 167,
-         "def": 134,
-         "sta": 111,
+         "def": 147,
+         "sta": 70,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1807,11 +1807,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 748,
+         "cpmax": 638,
          "candy": 50,
          "atk": 92,
-         "def": 78,
-         "sta": 120,
+         "def": 81,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1840,11 +1840,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1689,
+         "cpmax": 1539,
          "candy": 0,
          "atk": 150,
-         "def": 136,
-         "sta": 163,
+         "def": 139,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1876,11 +1876,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1106,
+         "cpmax": 966,
          "candy": 50,
          "atk": 122,
-         "def": 95,
-         "sta": 137,
+         "def": 96,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1909,11 +1909,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2450,
+         "cpmax": 2270,
          "candy": 0,
          "atk": 191,
-         "def": 162,
-         "sta": 190,
+         "def": 163,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1945,11 +1945,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1164,
+         "cpmax": 1002,
          "candy": 50,
          "atk": 148,
-         "def": 82,
-         "sta": 120,
+         "def": 87,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -1978,11 +1978,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2288,
+         "cpmax": 2105,
          "candy": 0,
          "atk": 207,
-         "def": 138,
-         "sta": 163,
+         "def": 144,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2014,11 +2014,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 1243,
+         "cpmax": 1110,
          "candy": 50,
          "atk": 136,
-         "def": 93,
-         "sta": 146,
+         "def": 96,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2047,11 +2047,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 3029,
+         "cpmax": 2839,
          "candy": 0,
          "atk": 227,
          "def": 166,
-         "sta": 207,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2083,11 +2083,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 829,
+         "cpmax": 695,
          "candy": 25,
          "atk": 101,
          "def": 82,
-         "sta": 120,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2120,11 +2120,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1419,
+         "cpmax": 1313,
          "candy": 100,
          "atk": 130,
-         "def": 123,
-         "sta": 163,
+         "def": 130,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2154,11 +2154,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2586,
+         "cpmax": 2441,
          "candy": 0,
          "atk": 182,
-         "def": 184,
-         "sta": 207,
+         "def": 187,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2190,11 +2190,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 1342,
+         "cpmax": 1148,
          "candy": 25,
          "atk": 195,
-         "def": 82,
-         "sta": 93,
+         "def": 103,
+         "sta": 50,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2226,11 +2226,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 2059,
+         "cpmax": 1859,
          "candy": 100,
          "atk": 232,
-         "def": 117,
-         "sta": 120,
+         "def": 138,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2259,11 +2259,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 3057,
+         "cpmax": 2887,
          "candy": 0,
          "atk": 271,
-         "def": 167,
-         "sta": 146,
+         "def": 194,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2295,11 +2295,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 1278,
+         "cpmax": 1199,
          "candy": 25,
          "atk": 137,
-         "def": 82,
-         "sta": 172,
+         "def": 88,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2331,11 +2331,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 2031,
+         "cpmax": 1910,
          "candy": 100,
          "atk": 177,
-         "def": 125,
-         "sta": 190,
+         "def": 130,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2364,11 +2364,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 3056,
+         "cpmax": 2889,
          "candy": 0,
          "atk": 234,
-         "def": 159,
-         "sta": 207,
+         "def": 162,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2401,11 +2401,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1033,
+         "cpmax": 916,
          "candy": 25,
          "atk": 139,
-         "def": 61,
-         "sta": 137,
+         "def": 64,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2438,11 +2438,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1611,
+         "cpmax": 1475,
          "candy": 100,
          "atk": 172,
-         "def": 92,
-         "sta": 163,
+         "def": 95,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2472,11 +2472,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2431,
+         "cpmax": 2268,
          "candy": 0,
          "atk": 207,
-         "def": 135,
-         "sta": 190,
+         "def": 138,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2509,11 +2509,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1040,
+         "cpmax": 956,
          "candy": 50,
          "atk": 97,
-         "def": 149,
-         "sta": 120,
+         "def": 182,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2543,11 +2543,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2422,
+         "cpmax": 2374,
          "candy": 0,
          "atk": 166,
-         "def": 209,
-         "sta": 190,
+         "def": 237,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2580,11 +2580,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1293,
+         "cpmax": 1193,
          "candy": 25,
          "atk": 132,
-         "def": 132,
-         "sta": 120,
+         "def": 163,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -2617,11 +2617,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1897,
+         "cpmax": 1815,
          "candy": 100,
          "atk": 164,
-         "def": 164,
-         "sta": 146,
+         "def": 196,
+         "sta": 110,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -2651,11 +2651,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2949,
+         "cpmax": 2916,
          "candy": 0,
          "atk": 211,
-         "def": 198,
-         "sta": 190,
+         "def": 229,
+         "sta": 160,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -2687,11 +2687,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1697,
+         "cpmax": 1502,
          "candy": 50,
          "atk": 170,
-         "def": 127,
-         "sta": 137,
+         "def": 132,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2720,11 +2720,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2461,
+         "cpmax": 2252,
          "candy": 0,
          "atk": 207,
-         "def": 162,
-         "sta": 163,
+         "def": 167,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2758,11 +2758,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1226,
+         "cpmax": 1204,
          "candy": 50,
          "atk": 109,
-         "def": 98,
-         "sta": 207,
+         "def": 109,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2792,11 +2792,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2545,
+         "cpmax": 2482,
          "candy": 0,
          "atk": 177,
-         "def": 180,
-         "sta": 216,
+         "def": 194,
+         "sta": 190,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2826,11 +2826,11 @@
          "name": "magnemite",
          "id": 81,
          "gender": {},
-         "cpmax": 1362,
+         "cpmax": 1083,
          "candy": 50,
          "atk": 165,
-         "def": 121,
-         "sta": 93,
+         "def": 128,
+         "sta": 50,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2860,11 +2860,11 @@
          "name": "magneton",
          "id": 82,
          "gender": {},
-         "cpmax": 2485,
+         "cpmax": 2237,
          "candy": 0,
          "atk": 223,
-         "def": 169,
-         "sta": 137,
+         "def": 182,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2894,11 +2894,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1236,
+         "cpmax": 1092,
          "candy": 0,
          "atk": 124,
-         "def": 115,
-         "sta": 141,
+         "def": 118,
+         "sta": 104,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2931,11 +2931,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1200,
+         "cpmax": 1011,
          "candy": 50,
          "atk": 158,
-         "def": 83,
-         "sta": 111,
+         "def": 88,
+         "sta": 70,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -2965,11 +2965,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2362,
+         "cpmax": 2138,
          "candy": 0,
          "atk": 218,
-         "def": 140,
-         "sta": 155,
+         "def": 145,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3001,11 +3001,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 971,
+         "cpmax": 899,
          "candy": 50,
          "atk": 85,
-         "def": 121,
-         "sta": 163,
+         "def": 128,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3035,11 +3035,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1985,
+         "cpmax": 1894,
          "candy": 0,
          "atk": 139,
-         "def": 177,
-         "sta": 207,
+         "def": 184,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3071,11 +3071,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1374,
+         "cpmax": 1269,
          "candy": 50,
          "atk": 135,
          "def": 90,
-         "sta": 190,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3104,11 +3104,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2757,
+         "cpmax": 2709,
          "candy": 0,
          "atk": 190,
-         "def": 172,
-         "sta": 233,
+         "def": 184,
+         "sta": 210,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3140,11 +3140,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1080,
+         "cpmax": 958,
          "candy": 50,
          "atk": 116,
-         "def": 134,
-         "sta": 102,
+         "def": 168,
+         "sta": 60,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3174,11 +3174,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2547,
+         "cpmax": 2475,
          "candy": 0,
          "atk": 186,
-         "def": 256,
-         "sta": 137,
+         "def": 323,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3211,11 +3211,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1229,
+         "cpmax": 1002,
          "candy": 25,
          "atk": 186,
-         "def": 67,
-         "sta": 102,
+         "def": 70,
+         "sta": 60,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3248,11 +3248,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1963,
+         "cpmax": 1716,
          "candy": 100,
          "atk": 223,
-         "def": 107,
-         "sta": 128,
+         "def": 112,
+         "sta": 90,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3282,11 +3282,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2878,
+         "cpmax": 2619,
          "candy": 0,
          "atk": 261,
-         "def": 149,
-         "sta": 155,
+         "def": 156,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3319,11 +3319,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1101,
+         "cpmax": 1002,
          "candy": 50,
          "atk": 85,
-         "def": 232,
-         "sta": 111,
+         "def": 288,
+         "sta": 70,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -3355,11 +3355,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1040,
+         "cpmax": 992,
          "candy": 50,
          "atk": 89,
-         "def": 136,
-         "sta": 155,
+         "def": 158,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3388,11 +3388,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2090,
+         "cpmax": 2048,
          "candy": 0,
          "atk": 144,
-         "def": 193,
-         "sta": 198,
+         "def": 215,
+         "sta": 170,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3424,11 +3424,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1561,
+         "cpmax": 1386,
          "candy": 50,
          "atk": 181,
-         "def": 124,
-         "sta": 102,
+         "def": 156,
+         "sta": 60,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3457,11 +3457,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2829,
+         "cpmax": 2694,
          "candy": 0,
          "atk": 240,
-         "def": 181,
-         "sta": 146,
+         "def": 214,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3490,11 +3490,11 @@
          "name": "voltorb",
          "id": 100,
          "gender": {},
-         "cpmax": 1010,
+         "cpmax": 857,
          "candy": 50,
          "atk": 109,
-         "def": 111,
-         "sta": 120,
+         "def": 114,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3520,11 +3520,11 @@
          "name": "electrode",
          "id": 101,
          "gender": {},
-         "cpmax": 2099,
+         "cpmax": 1900,
          "candy": 0,
          "atk": 173,
-         "def": 173,
-         "sta": 155,
+         "def": 179,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3557,11 +3557,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1175,
+         "cpmax": 1102,
          "candy": 50,
          "atk": 107,
-         "def": 125,
-         "sta": 155,
+         "def": 140,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3591,11 +3591,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3014,
+         "cpmax": 2916,
          "candy": 0,
          "atk": 233,
-         "def": 149,
-         "sta": 216,
+         "def": 158,
+         "sta": 190,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3627,11 +3627,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1019,
+         "cpmax": 943,
          "candy": 50,
          "atk": 90,
-         "def": 144,
-         "sta": 137,
+         "def": 165,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3660,11 +3660,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1835,
+         "cpmax": 1691,
          "candy": 0,
          "atk": 144,
-         "def": 186,
-         "sta": 155,
+         "def": 200,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3692,11 +3692,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 2576,
+         "cpmax": 2406,
          "candy": 0,
          "atk": 224,
-         "def": 181,
-         "sta": 137,
+         "def": 211,
+         "sta": 100,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -3724,11 +3724,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 2332,
+         "cpmax": 2098,
          "candy": 0,
          "atk": 193,
-         "def": 197,
-         "sta": 137,
+         "def": 212,
+         "sta": 100,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -3761,11 +3761,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1411,
+         "cpmax": 1322,
          "candy": 0,
          "atk": 108,
          "def": 137,
-         "sta": 207,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3797,11 +3797,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1214,
+         "cpmax": 1091,
          "candy": 50,
          "atk": 119,
-         "def": 141,
-         "sta": 120,
+         "def": 164,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3830,11 +3830,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2293,
+         "cpmax": 2183,
          "candy": 0,
          "atk": 174,
-         "def": 197,
-         "sta": 163,
+         "def": 221,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3867,11 +3867,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1651,
-         "candy": 25,
+         "cpmax": 1679,
+         "candy": 50,
          "atk": 140,
-         "def": 127,
-         "sta": 190,
+         "def": 157,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3904,11 +3904,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3179,
-         "candy": 100,
+         "cpmax": 3300,
+         "candy": 0,
          "atk": 222,
-         "def": 171,
-         "sta": 233,
+         "def": 206,
+         "sta": 210,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -3939,11 +3939,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 1255,
+         "cpmax": 1469,
          "candy": 50,
          "atk": 60,
-         "def": 128,
-         "sta": 487,
+         "def": 176,
+         "sta": 500,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -3975,11 +3975,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2238,
+         "cpmax": 2208,
          "candy": 0,
          "atk": 183,
-         "def": 169,
-         "sta": 163,
+         "def": 205,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4007,11 +4007,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 2586,
+         "cpmax": 2463,
          "candy": 0,
          "atk": 181,
          "def": 165,
-         "sta": 233,
+         "sta": 210,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4043,11 +4043,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1056,
+         "cpmax": 921,
          "candy": 25,
          "atk": 129,
-         "def": 103,
-         "sta": 102,
+         "def": 125,
+         "sta": 60,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4079,11 +4079,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2093,
+         "cpmax": 1979,
          "candy": 100,
          "atk": 187,
-         "def": 156,
-         "sta": 146,
+         "def": 182,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4115,11 +4115,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1152,
+         "cpmax": 1006,
          "candy": 50,
          "atk": 123,
-         "def": 110,
-         "sta": 128,
+         "def": 115,
+         "sta": 90,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4148,11 +4148,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2162,
+         "cpmax": 2040,
          "candy": 0,
          "atk": 175,
-         "def": 147,
-         "sta": 190,
+         "def": 154,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4181,11 +4181,11 @@
          "name": "staryu",
          "id": 120,
          "gender": {},
-         "cpmax": 1157,
+         "cpmax": 926,
          "candy": 50,
          "atk": 137,
          "def": 112,
-         "sta": 102,
+         "sta": 60,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4212,11 +4212,11 @@
          "name": "starmie",
          "id": 121,
          "gender": {},
-         "cpmax": 2584,
+         "cpmax": 2303,
          "candy": 0,
          "atk": 210,
          "def": 184,
-         "sta": 155,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4246,11 +4246,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2228,
+         "cpmax": 1984,
          "candy": 0,
          "atk": 192,
-         "def": 205,
-         "sta": 120,
+         "def": 233,
+         "sta": 80,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4283,11 +4283,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2706,
+         "cpmax": 2464,
          "candy": 50,
          "atk": 218,
          "def": 170,
-         "sta": 172,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4316,11 +4316,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 2555,
+         "cpmax": 2512,
          "candy": 0,
          "atk": 223,
-         "def": 151,
-         "sta": 163,
+         "def": 182,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4352,11 +4352,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 2334,
-         "candy": 100,
+         "cpmax": 2196,
+         "candy": 0,
          "atk": 198,
-         "def": 158,
-         "sta": 163,
+         "def": 173,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4388,11 +4388,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 2394,
-         "candy": 100,
+         "cpmax": 2254,
+         "candy": 0,
          "atk": 206,
-         "def": 154,
-         "sta": 163,
+         "def": 169,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4421,11 +4421,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2959,
+         "cpmax": 2770,
          "candy": 0,
          "atk": 238,
-         "def": 182,
-         "sta": 163,
+         "def": 197,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4453,11 +4453,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 2620,
+         "cpmax": 2488,
          "candy": 0,
          "atk": 198,
-         "def": 183,
-         "sta": 181,
+         "def": 197,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4489,11 +4489,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 274,
+         "cpmax": 220,
          "candy": 400,
          "atk": 29,
-         "def": 85,
-         "sta": 85,
+         "def": 102,
+         "sta": 40,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -4520,11 +4520,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3391,
+         "cpmax": 3281,
          "candy": 0,
          "atk": 237,
-         "def": 186,
-         "sta": 216,
+         "def": 197,
+         "sta": 190,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -4554,11 +4554,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2641,
+         "cpmax": 2603,
          "candy": 0,
          "atk": 165,
-         "def": 174,
-         "sta": 277,
+         "def": 180,
+         "sta": 260,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4584,11 +4584,11 @@
          "name": "ditto",
          "id": 132,
          "gender": {},
-         "cpmax": 832,
+         "cpmax": 718,
          "candy": 0,
          "atk": 91,
          "def": 91,
-         "sta": 134,
+         "sta": 96,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4624,11 +4624,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1071,
+         "cpmax": 969,
          "candy": 25,
          "atk": 104,
-         "def": 114,
-         "sta": 146,
+         "def": 121,
+         "sta": 110,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4656,11 +4656,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 3114,
+         "cpmax": 3157,
          "candy": 0,
          "atk": 205,
-         "def": 161,
-         "sta": 277,
+         "def": 177,
+         "sta": 260,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4688,11 +4688,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2888,
+         "cpmax": 2730,
          "candy": 0,
          "atk": 232,
-         "def": 182,
-         "sta": 163,
+         "def": 201,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4721,11 +4721,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 3029,
+         "cpmax": 2904,
          "candy": 0,
          "atk": 246,
-         "def": 179,
-         "sta": 163,
+         "def": 204,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4754,11 +4754,11 @@
          "name": "porygon",
          "id": 137,
          "gender": {},
-         "cpmax": 1720,
-         "candy": 25,
+         "cpmax": 1567,
+         "candy": 50,
          "atk": 153,
-         "def": 136,
-         "sta": 163,
+         "def": 139,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -4791,11 +4791,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1544,
+         "cpmax": 1345,
          "candy": 50,
          "atk": 155,
-         "def": 153,
-         "sta": 111,
+         "def": 174,
+         "sta": 70,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4825,11 +4825,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2786,
+         "cpmax": 2685,
          "candy": 0,
          "atk": 207,
-         "def": 201,
-         "sta": 172,
+         "def": 227,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4862,11 +4862,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1370,
+         "cpmax": 1172,
          "candy": 50,
          "atk": 148,
-         "def": 140,
-         "sta": 102,
+         "def": 162,
+         "sta": 60,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4896,11 +4896,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2713,
+         "cpmax": 2517,
          "candy": 0,
          "atk": 220,
-         "def": 186,
-         "sta": 155,
+         "def": 203,
+         "sta": 120,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4930,11 +4930,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2783,
+         "cpmax": 2608,
          "candy": 0,
          "atk": 221,
-         "def": 159,
-         "sta": 190,
+         "def": 164,
+         "sta": 160,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4963,11 +4963,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 3225,
+         "cpmax": 3355,
          "candy": 0,
          "atk": 190,
-         "def": 169,
-         "sta": 330,
+         "def": 190,
+         "sta": 320,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -4994,11 +4994,11 @@
          "name": "articuno",
          "id": 144,
          "gender": {},
-         "cpmax": 3051,
+         "cpmax": 2933,
          "candy": 0,
          "atk": 192,
-         "def": 236,
-         "sta": 207,
+         "def": 249,
+         "sta": 180,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -5025,11 +5025,11 @@
          "name": "zapdos",
          "id": 145,
          "gender": {},
-         "cpmax": 3527,
+         "cpmax": 3330,
          "candy": 0,
          "atk": 253,
-         "def": 185,
-         "sta": 207,
+         "def": 188,
+         "sta": 180,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -5056,11 +5056,11 @@
          "name": "moltres",
          "id": 146,
          "gender": {},
-         "cpmax": 3465,
+         "cpmax": 3272,
          "candy": 0,
          "atk": 251,
-         "def": 181,
-         "sta": 207,
+         "def": 184,
+         "sta": 180,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -5092,11 +5092,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1004,
+         "cpmax": 860,
          "candy": 25,
          "atk": 119,
-         "def": 91,
-         "sta": 121,
+         "def": 94,
+         "sta": 82,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -5128,11 +5128,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1780,
+         "cpmax": 1609,
          "candy": 100,
          "atk": 163,
-         "def": 135,
-         "sta": 156,
+         "def": 138,
+         "sta": 122,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -5162,11 +5162,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3792,
+         "cpmax": 3581,
          "candy": 0,
          "atk": 263,
-         "def": 198,
-         "sta": 209,
+         "def": 201,
+         "sta": 182,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -5192,11 +5192,11 @@
          "name": "mewtwo",
          "id": 150,
          "gender": {},
-         "cpmax": 4178,
+         "cpmax": 3982,
          "candy": 0,
          "atk": 300,
          "def": 182,
-         "sta": 214,
+         "sta": 193,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -5225,11 +5225,11 @@
          "name": "mew",
          "id": 151,
          "gender": {},
-         "cpmax": 3265,
+         "cpmax": 3090,
          "candy": 0,
          "atk": 210,
          "def": 210,
-         "sta": 225,
+         "sta": 200,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -5296,11 +5296,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 935,
+         "cpmax": 801,
          "candy": 25,
          "atk": 92,
          "def": 122,
-         "sta": 128,
+         "sta": 90,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5332,11 +5332,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1454,
+         "cpmax": 1296,
          "candy": 100,
          "atk": 122,
          "def": 155,
-         "sta": 155,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5365,11 +5365,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2410,
+         "cpmax": 2227,
          "candy": 0,
          "atk": 168,
          "def": 202,
-         "sta": 190,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5401,11 +5401,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 980,
+         "cpmax": 831,
          "candy": 25,
          "atk": 116,
-         "def": 93,
-         "sta": 118,
+         "def": 96,
+         "sta": 78,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5437,11 +5437,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1653,
+         "cpmax": 1484,
          "candy": 100,
          "atk": 158,
-         "def": 126,
-         "sta": 151,
+         "def": 129,
+         "sta": 116,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5470,11 +5470,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2889,
+         "cpmax": 2686,
          "candy": 0,
          "atk": 223,
-         "def": 173,
-         "sta": 186,
+         "def": 176,
+         "sta": 156,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5506,11 +5506,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1131,
+         "cpmax": 1011,
          "candy": 25,
          "atk": 117,
-         "def": 109,
-         "sta": 137,
+         "def": 116,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5542,11 +5542,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1722,
+         "cpmax": 1598,
          "candy": 100,
          "atk": 150,
-         "def": 142,
-         "sta": 163,
+         "def": 151,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5575,11 +5575,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2857,
+         "cpmax": 2721,
          "candy": 0,
          "atk": 205,
-         "def": 188,
-         "sta": 198,
+         "def": 197,
+         "sta": 170,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5611,11 +5611,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 618,
+         "cpmax": 519,
          "candy": 25,
          "atk": 79,
-         "def": 73,
-         "sta": 111,
+         "def": 77,
+         "sta": 70,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -5644,11 +5644,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1758,
+         "cpmax": 1667,
          "candy": 0,
          "atk": 148,
-         "def": 125,
-         "sta": 198,
+         "def": 130,
+         "sta": 170,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -5681,11 +5681,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 677,
+         "cpmax": 640,
          "candy": 50,
          "atk": 67,
-         "def": 88,
-         "sta": 155,
+         "def": 101,
+         "sta": 120,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -5715,11 +5715,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2024,
+         "cpmax": 2040,
          "candy": 0,
          "atk": 145,
-         "def": 156,
-         "sta": 225,
+         "def": 179,
+         "sta": 200,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -5752,11 +5752,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 728,
+         "cpmax": 663,
          "candy": 25,
          "atk": 72,
-         "def": 118,
-         "sta": 120,
+         "def": 142,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -5786,11 +5786,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1346,
+         "cpmax": 1275,
          "candy": 0,
          "atk": 107,
-         "def": 179,
-         "sta": 146,
+         "def": 209,
+         "sta": 110,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -5823,11 +5823,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 816,
+         "cpmax": 685,
          "candy": 50,
          "atk": 105,
          "def": 73,
-         "sta": 120,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -5857,11 +5857,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1772,
+         "cpmax": 1636,
          "candy": 0,
          "atk": 161,
-         "def": 124,
-         "sta": 172,
+         "def": 128,
+         "sta": 140,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -5891,11 +5891,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2646,
+         "cpmax": 2466,
          "candy": 0,
          "atk": 194,
          "def": 178,
-         "sta": 198,
+         "sta": 170,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -5928,11 +5928,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1119,
+         "cpmax": 1067,
          "candy": 50,
          "atk": 106,
-         "def": 97,
-         "sta": 181,
+         "def": 106,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5962,11 +5962,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2085,
+         "cpmax": 2077,
          "candy": 0,
          "atk": 146,
-         "def": 137,
-         "sta": 268,
+         "def": 146,
+         "sta": 250,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -5995,11 +5995,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 473,
+         "cpmax": 376,
          "candy": 25,
          "atk": 77,
-         "def": 53,
-         "sta": 85,
+         "def": 63,
+         "sta": 40,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -6031,11 +6031,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 671,
+         "cpmax": 620,
          "candy": 25,
          "atk": 75,
-         "def": 79,
-         "sta": 137,
+         "def": 91,
+         "sta": 100,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -6069,11 +6069,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 535,
+         "cpmax": 512,
          "candy": 25,
          "atk": 69,
-         "def": 32,
-         "sta": 207,
+         "def": 34,
+         "sta": 180,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -6106,11 +6106,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 657,
-         "candy": 25,
+         "cpmax": 540,
+         "candy": 50,
          "atk": 67,
          "def": 116,
-         "sta": 111,
+         "sta": 70,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6147,11 +6147,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1708,
-         "candy": 100,
+         "cpmax": 1543,
+         "candy": 0,
          "atk": 139,
-         "def": 181,
-         "sta": 146,
+         "def": 191,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6184,11 +6184,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1102,
+         "cpmax": 925,
          "candy": 50,
          "atk": 134,
          "def": 89,
-         "sta": 120,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6218,11 +6218,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2188,
+         "cpmax": 1975,
          "candy": 0,
          "atk": 192,
          "def": 146,
-         "sta": 163,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6254,11 +6254,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 991,
+         "cpmax": 887,
          "candy": 25,
          "atk": 114,
-         "def": 79,
-         "sta": 146,
+         "def": 82,
+         "sta": 110,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -6290,11 +6290,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1521,
+         "cpmax": 1402,
          "candy": 100,
          "atk": 145,
-         "def": 109,
-         "sta": 172,
+         "def": 112,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -6323,11 +6323,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2852,
+         "cpmax": 2695,
          "candy": 0,
          "atk": 211,
-         "def": 169,
-         "sta": 207,
+         "def": 172,
+         "sta": 180,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -6356,11 +6356,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2281,
+         "cpmax": 2108,
          "candy": 0,
          "atk": 169,
-         "def": 186,
-         "sta": 181,
+         "def": 189,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6393,11 +6393,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 461,
+         "cpmax": 420,
          "candy": 25,
          "atk": 37,
          "def": 93,
-         "sta": 172,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6427,11 +6427,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1588,
+         "cpmax": 1503,
          "candy": 0,
          "atk": 112,
          "def": 152,
-         "sta": 225,
+         "sta": 200,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6460,11 +6460,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2148,
+         "cpmax": 2065,
          "candy": 0,
          "atk": 167,
-         "def": 176,
-         "sta": 172,
+         "def": 198,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -6493,11 +6493,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2449,
+         "cpmax": 2371,
          "candy": 0,
          "atk": 174,
-         "def": 179,
-         "sta": 207,
+         "def": 192,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6530,11 +6530,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 600,
+         "cpmax": 508,
          "candy": 25,
          "atk": 67,
-         "def": 94,
-         "sta": 111,
+         "def": 101,
+         "sta": 70,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6567,11 +6567,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 976,
+         "cpmax": 882,
          "candy": 100,
          "atk": 91,
-         "def": 120,
-         "sta": 146,
+         "def": 127,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6601,11 +6601,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1636,
+         "cpmax": 1553,
          "candy": 0,
          "atk": 118,
-         "def": 183,
-         "sta": 181,
+         "def": 197,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6637,11 +6637,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1348,
+         "cpmax": 1188,
          "candy": 0,
          "atk": 136,
          "def": 112,
-         "sta": 146,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6673,11 +6673,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 395,
+         "cpmax": 316,
          "candy": 50,
          "atk": 55,
          "def": 55,
-         "sta": 102,
+         "sta": 60,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6706,11 +6706,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2141,
+         "cpmax": 2048,
          "candy": 0,
          "atk": 185,
-         "def": 135,
-         "sta": 181,
+         "def": 148,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6743,11 +6743,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1470,
+         "cpmax": 1326,
          "candy": 0,
          "atk": 154,
          "def": 94,
-         "sta": 163,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6780,11 +6780,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 641,
+         "cpmax": 596,
          "candy": 50,
          "atk": 75,
-         "def": 66,
-         "sta": 146,
+         "def": 75,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6814,11 +6814,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1992,
+         "cpmax": 1929,
          "candy": 0,
          "atk": 152,
-         "def": 143,
-         "sta": 216,
+         "def": 152,
+         "sta": 190,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6847,11 +6847,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 3170,
+         "cpmax": 3000,
          "candy": 0,
          "atk": 261,
-         "def": 175,
-         "sta": 163,
+         "def": 194,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -6880,11 +6880,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2137,
+         "cpmax": 2052,
          "candy": 0,
          "atk": 126,
-         "def": 240,
-         "sta": 216,
+         "def": 250,
+         "sta": 190,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -6916,11 +6916,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1562,
-         "candy": 100,
+         "cpmax": 1392,
+         "candy": 0,
          "atk": 175,
          "def": 87,
-         "sta": 155,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6950,11 +6950,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2545,
+         "cpmax": 2482,
          "candy": 0,
          "atk": 177,
-         "def": 180,
-         "sta": 216,
+         "def": 194,
+         "sta": 190,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -6986,11 +6986,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1926,
-         "candy": 100,
+         "cpmax": 1781,
+         "candy": 0,
          "atk": 167,
-         "def": 154,
-         "sta": 155,
+         "def": 167,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7016,11 +7016,11 @@
          "name": "unown",
          "id": 201,
          "gender": {},
-         "cpmax": 1185,
+         "cpmax": 1022,
          "candy": 0,
          "atk": 136,
          "def": 91,
-         "sta": 134,
+         "sta": 96,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -7046,11 +7046,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1026,
+         "cpmax": 1024,
          "candy": 0,
          "atk": 60,
          "def": 106,
-         "sta": 382,
+         "sta": 380,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7078,11 +7078,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2046,
+         "cpmax": 1863,
          "candy": 0,
          "atk": 182,
          "def": 133,
-         "sta": 172,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7114,11 +7114,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1108,
+         "cpmax": 1045,
          "candy": 50,
          "atk": 108,
-         "def": 122,
-         "sta": 137,
+         "def": 146,
+         "sta": 100,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -7148,11 +7148,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2282,
+         "cpmax": 2263,
          "candy": 0,
          "atk": 161,
-         "def": 205,
-         "sta": 181,
+         "def": 242,
+         "sta": 150,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -7181,11 +7181,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1689,
+         "cpmax": 1615,
          "candy": 0,
          "atk": 131,
-         "def": 128,
-         "sta": 225,
+         "def": 131,
+         "sta": 200,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7218,11 +7218,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1857,
-         "candy": 100,
+         "cpmax": 1758,
+         "candy": 0,
          "atk": 143,
-         "def": 184,
-         "sta": 163,
+         "def": 204,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -7252,11 +7252,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2414,
+         "cpmax": 2439,
          "candy": 0,
          "atk": 148,
-         "def": 272,
-         "sta": 181,
+         "def": 333,
+         "sta": 150,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -7288,11 +7288,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 1237,
+         "cpmax": 1124,
          "candy": 50,
          "atk": 137,
-         "def": 85,
-         "sta": 155,
+         "def": 89,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7321,11 +7321,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 2552,
+         "cpmax": 2440,
          "candy": 0,
          "atk": 212,
-         "def": 131,
-         "sta": 207,
+         "def": 137,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7355,11 +7355,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2051,
+         "cpmax": 1910,
          "candy": 0,
          "atk": 184,
-         "def": 138,
-         "sta": 163,
+         "def": 148,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7389,11 +7389,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3001,
+         "cpmax": 2801,
          "candy": 0,
          "atk": 236,
-         "def": 181,
-         "sta": 172,
+         "def": 191,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -7423,11 +7423,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 405,
+         "cpmax": 300,
          "candy": 0,
          "atk": 17,
          "def": 396,
-         "sta": 85,
+         "sta": 40,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7457,11 +7457,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3101,
+         "cpmax": 2938,
          "candy": 0,
          "atk": 234,
-         "def": 179,
-         "sta": 190,
+         "def": 189,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7494,11 +7494,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2051,
-         "candy": 100,
+         "cpmax": 1868,
+         "candy": 0,
          "atk": 189,
-         "def": 146,
-         "sta": 146,
+         "def": 157,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7530,11 +7530,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1328,
+         "cpmax": 1184,
          "candy": 50,
          "atk": 142,
          "def": 93,
-         "sta": 155,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7563,11 +7563,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2945,
+         "cpmax": 2760,
          "candy": 0,
          "atk": 236,
          "def": 144,
-         "sta": 207,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7599,11 +7599,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 895,
+         "cpmax": 750,
          "candy": 50,
          "atk": 118,
          "def": 71,
-         "sta": 120,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -7633,11 +7633,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1702,
+         "cpmax": 1543,
          "candy": 0,
          "atk": 139,
-         "def": 191,
-         "sta": 137,
+         "def": 209,
+         "sta": 100,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -7670,11 +7670,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 741,
+         "cpmax": 663,
          "candy": 50,
          "atk": 90,
-         "def": 69,
-         "sta": 137,
+         "def": 74,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7707,11 +7707,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2345,
+         "cpmax": 2284,
          "candy": 0,
          "atk": 181,
-         "def": 138,
-         "sta": 225,
+         "def": 147,
+         "sta": 200,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7741,11 +7741,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 1378,
+         "cpmax": 1214,
          "candy": 0,
          "atk": 118,
          "def": 156,
-         "sta": 146,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7777,11 +7777,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 912,
+         "cpmax": 749,
          "candy": 50,
          "atk": 127,
          "def": 69,
-         "sta": 111,
+         "sta": 70,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -7810,11 +7810,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2315,
+         "cpmax": 2124,
          "candy": 0,
          "atk": 197,
          "def": 141,
-         "sta": 181,
+         "sta": 150,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -7844,11 +7844,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1094,
+         "cpmax": 937,
          "candy": 0,
          "atk": 128,
          "def": 90,
-         "sta": 128,
+         "sta": 90,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -7877,11 +7877,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2108,
+         "cpmax": 2032,
          "candy": 0,
          "atk": 148,
-         "def": 226,
-         "sta": 163,
+         "def": 260,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -7911,11 +7911,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2108,
+         "cpmax": 2032,
          "candy": 0,
          "atk": 148,
-         "def": 226,
-         "sta": 163,
+         "def": 260,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -7948,11 +7948,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1234,
+         "cpmax": 1110,
          "candy": 50,
          "atk": 152,
-         "def": 83,
-         "sta": 128,
+         "def": 93,
+         "sta": 90,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -7982,11 +7982,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2635,
+         "cpmax": 2529,
          "candy": 0,
          "atk": 224,
-         "def": 144,
-         "sta": 181,
+         "def": 159,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8016,11 +8016,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2641,
+         "cpmax": 2424,
          "candy": 0,
          "atk": 194,
          "def": 194,
-         "sta": 181,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8052,11 +8052,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1206,
+         "cpmax": 1175,
          "candy": 50,
          "atk": 107,
-         "def": 98,
-         "sta": 207,
+         "def": 107,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8085,11 +8085,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3013,
+         "cpmax": 3022,
          "candy": 0,
          "atk": 214,
-         "def": 185,
-         "sta": 207,
+         "def": 214,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8118,11 +8118,11 @@
          "name": "porygon2",
          "id": 233,
          "gender": {},
-         "cpmax": 2711,
-         "candy": 100,
+         "cpmax": 2546,
+         "candy": 0,
          "atk": 198,
-         "def": 180,
-         "sta": 198,
+         "def": 183,
+         "sta": 170,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8151,11 +8151,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2164,
+         "cpmax": 1988,
          "candy": 0,
          "atk": 192,
-         "def": 131,
-         "sta": 177,
+         "def": 132,
+         "sta": 146,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8184,11 +8184,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 431,
+         "cpmax": 389,
          "candy": 0,
          "atk": 40,
-         "def": 83,
-         "sta": 146,
+         "def": 88,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8213,11 +8213,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 492,
+         "cpmax": 404,
          "candy": 25,
          "atk": 64,
          "def": 64,
-         "sta": 111,
+         "sta": 70,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8251,11 +8251,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 2156,
+         "cpmax": 1905,
          "candy": 0,
          "atk": 173,
-         "def": 207,
-         "sta": 137,
+         "def": 214,
+         "sta": 100,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8284,11 +8284,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 1291,
+         "cpmax": 1230,
          "candy": 25,
          "atk": 153,
-         "def": 91,
-         "sta": 128,
+         "def": 116,
+         "sta": 90,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8321,11 +8321,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 1206,
+         "cpmax": 1073,
          "candy": 25,
          "atk": 135,
-         "def": 101,
-         "sta": 128,
+         "def": 110,
+         "sta": 90,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8358,11 +8358,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 1323,
+         "cpmax": 1178,
          "candy": 25,
          "atk": 151,
-         "def": 99,
-         "sta": 128,
+         "def": 108,
+         "sta": 90,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8394,11 +8394,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 2354,
+         "cpmax": 2312,
          "candy": 0,
          "atk": 157,
-         "def": 193,
-         "sta": 216,
+         "def": 211,
+         "sta": 190,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8426,11 +8426,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 2757,
+         "cpmax": 3219,
          "candy": 0,
          "atk": 129,
-         "def": 169,
-         "sta": 496,
+         "def": 229,
+         "sta": 510,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8456,11 +8456,11 @@
          "name": "raikou",
          "id": 243,
          "gender": {},
-         "cpmax": 3452,
+         "cpmax": 3349,
          "candy": 0,
          "atk": 241,
-         "def": 195,
-         "sta": 207,
+         "def": 210,
+         "sta": 180,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -8487,11 +8487,11 @@
          "name": "entei",
          "id": 244,
          "gender": {},
-         "cpmax": 3473,
+         "cpmax": 3377,
          "candy": 0,
          "atk": 235,
-         "def": 171,
-         "sta": 251,
+         "def": 176,
+         "sta": 230,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -8518,11 +8518,11 @@
          "name": "suicune",
          "id": 245,
          "gender": {},
-         "cpmax": 2983,
+         "cpmax": 2823,
          "candy": 0,
          "atk": 180,
          "def": 235,
-         "sta": 225,
+         "sta": 200,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -8556,11 +8556,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1040,
+         "cpmax": 904,
          "candy": 25,
          "atk": 115,
          "def": 93,
-         "sta": 137,
+         "sta": 100,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8593,11 +8593,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1766,
+         "cpmax": 1608,
          "candy": 100,
          "atk": 155,
          "def": 133,
-         "sta": 172,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8627,11 +8627,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3834,
+         "cpmax": 3670,
          "candy": 0,
          "atk": 251,
-         "def": 207,
-         "sta": 225,
+         "def": 212,
+         "sta": 200,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -8658,11 +8658,11 @@
          "name": "lugia",
          "id": 249,
          "gender": {},
-         "cpmax": 3703,
+         "cpmax": 3598,
          "candy": 0,
          "atk": 193,
-         "def": 310,
-         "sta": 235,
+         "def": 323,
+         "sta": 212,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -8690,11 +8690,11 @@
          "name": "ho-oh",
          "id": 250,
          "gender": {},
-         "cpmax": 3863,
+         "cpmax": 3889,
          "candy": 0,
          "atk": 239,
-         "def": 244,
-         "sta": 214,
+         "def": 274,
+         "sta": 193,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -8722,11 +8722,11 @@
          "name": "celebi",
          "id": 251,
          "gender": {},
-         "cpmax": 3265,
+         "cpmax": 3090,
          "candy": 0,
          "atk": 210,
          "def": 210,
-         "sta": 225,
+         "sta": 200,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -8759,11 +8759,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1053,
+         "cpmax": 923,
          "candy": 25,
          "atk": 124,
-         "def": 94,
-         "sta": 120,
+         "def": 104,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8795,11 +8795,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1673,
+         "cpmax": 1508,
          "candy": 100,
          "atk": 172,
-         "def": 120,
-         "sta": 137,
+         "def": 130,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8828,11 +8828,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2757,
+         "cpmax": 2584,
          "candy": 0,
          "atk": 223,
-         "def": 169,
-         "sta": 172,
+         "def": 180,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8864,11 +8864,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1093,
+         "cpmax": 959,
          "candy": 25,
          "atk": 130,
-         "def": 87,
-         "sta": 128,
+         "def": 92,
+         "sta": 90,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8901,11 +8901,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1652,
+         "cpmax": 1472,
          "candy": 100,
          "atk": 163,
          "def": 115,
-         "sta": 155,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8935,11 +8935,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2848,
+         "cpmax": 2631,
          "candy": 0,
          "atk": 240,
          "def": 141,
-         "sta": 190,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -8971,11 +8971,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1128,
+         "cpmax": 981,
          "candy": 25,
          "atk": 126,
          "def": 93,
-         "sta": 137,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9008,11 +9008,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1776,
+         "cpmax": 1617,
          "candy": 100,
          "atk": 156,
          "def": 133,
-         "sta": 172,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9042,11 +9042,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2974,
+         "cpmax": 2815,
          "candy": 0,
          "atk": 208,
          "def": 175,
-         "sta": 225,
+         "sta": 200,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9078,11 +9078,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 678,
+         "cpmax": 564,
          "candy": 50,
          "atk": 96,
-         "def": 61,
-         "sta": 111,
+         "def": 63,
+         "sta": 70,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9111,11 +9111,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1926,
+         "cpmax": 1783,
          "candy": 0,
          "atk": 171,
-         "def": 132,
-         "sta": 172,
+         "def": 137,
+         "sta": 140,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9147,11 +9147,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 508,
+         "cpmax": 423,
          "candy": 50,
          "atk": 58,
          "def": 80,
-         "sta": 116,
+         "sta": 76,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9180,11 +9180,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1662,
+         "cpmax": 1533,
          "candy": 0,
          "atk": 142,
          "def": 128,
-         "sta": 186,
+         "sta": 156,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9217,11 +9217,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 578,
+         "cpmax": 502,
          "candy": 12,
          "atk": 75,
-         "def": 59,
-         "sta": 128,
+         "def": 61,
+         "sta": 90,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9251,11 +9251,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 553,
+         "cpmax": 517,
          "candy": 50,
          "atk": 60,
-         "def": 77,
-         "sta": 137,
+         "def": 91,
+         "sta": 100,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9283,11 +9283,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1765,
+         "cpmax": 1573,
          "candy": 0,
          "atk": 189,
          "def": 98,
-         "sta": 155,
+         "sta": 120,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9319,11 +9319,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 553,
+         "cpmax": 517,
          "candy": 50,
          "atk": 60,
-         "def": 77,
-         "sta": 137,
+         "def": 91,
+         "sta": 100,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9351,11 +9351,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1224,
+         "cpmax": 1121,
          "candy": 0,
          "atk": 98,
-         "def": 162,
-         "sta": 155,
+         "def": 172,
+         "sta": 120,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9388,11 +9388,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 598,
+         "cpmax": 526,
          "candy": 25,
          "atk": 71,
-         "def": 77,
-         "sta": 120,
+         "def": 86,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9424,11 +9424,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1197,
+         "cpmax": 1102,
          "candy": 100,
          "atk": 112,
-         "def": 119,
-         "sta": 155,
+         "def": 128,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9458,11 +9458,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2323,
+         "cpmax": 2229,
          "candy": 0,
          "atk": 173,
-         "def": 176,
-         "sta": 190,
+         "def": 191,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9494,11 +9494,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 598,
+         "cpmax": 526,
          "candy": 25,
          "atk": 71,
-         "def": 77,
-         "sta": 120,
+         "def": 86,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9531,11 +9531,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1227,
+         "cpmax": 1117,
          "candy": 100,
          "atk": 134,
          "def": 78,
-         "sta": 172,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9565,11 +9565,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2333,
+         "cpmax": 2186,
          "candy": 0,
          "atk": 200,
          "def": 121,
-         "sta": 207,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9602,11 +9602,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 765,
+         "cpmax": 642,
          "candy": 50,
          "atk": 106,
          "def": 61,
-         "sta": 120,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9634,11 +9634,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1920,
+         "cpmax": 1747,
          "candy": 0,
          "atk": 185,
-         "def": 124,
-         "sta": 155,
+         "def": 130,
+         "sta": 120,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9671,11 +9671,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 765,
+         "cpmax": 642,
          "candy": 50,
          "atk": 106,
          "def": 61,
-         "sta": 120,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9705,11 +9705,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2127,
+         "cpmax": 1969,
          "candy": 0,
          "atk": 175,
-         "def": 174,
-         "sta": 155,
+         "def": 189,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9742,11 +9742,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 539,
+         "cpmax": 436,
          "candy": 25,
          "atk": 79,
-         "def": 59,
-         "sta": 99,
+         "def": 63,
+         "sta": 56,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -9780,11 +9780,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 966,
+         "cpmax": 843,
          "candy": 100,
          "atk": 117,
-         "def": 90,
-         "sta": 116,
+         "def": 100,
+         "sta": 76,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -9814,11 +9814,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3093,
+         "cpmax": 2964,
          "candy": 0,
          "atk": 237,
-         "def": 195,
-         "sta": 169,
+         "def": 220,
+         "sta": 136,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -9851,11 +9851,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 791,
+         "cpmax": 695,
          "candy": 50,
          "atk": 93,
-         "def": 87,
-         "sta": 120,
+         "def": 97,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9885,11 +9885,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2270,
+         "cpmax": 2135,
          "candy": 0,
          "atk": 192,
-         "def": 150,
-         "sta": 172,
+         "def": 161,
+         "sta": 140,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -9921,11 +9921,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 810,
+         "cpmax": 722,
          "candy": 50,
          "atk": 74,
          "def": 110,
-         "sta": 155,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9955,11 +9955,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2628,
+         "cpmax": 2407,
          "candy": 0,
          "atk": 241,
-         "def": 144,
-         "sta": 155,
+         "def": 153,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -9991,11 +9991,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1002,
+         "cpmax": 942,
          "candy": 25,
          "atk": 104,
-         "def": 92,
-         "sta": 155,
+         "def": 104,
+         "sta": 120,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -10026,11 +10026,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1968,
+         "cpmax": 1896,
          "candy": 100,
          "atk": 159,
-         "def": 145,
-         "sta": 190,
+         "def": 159,
+         "sta": 160,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -10059,11 +10059,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 4431,
+         "cpmax": 4548,
          "candy": 0,
          "atk": 290,
-         "def": 166,
-         "sta": 284,
+         "def": 183,
+         "sta": 273,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -10096,11 +10096,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 768,
+         "cpmax": 674,
          "candy": 50,
          "atk": 80,
-         "def": 126,
-         "sta": 104,
+         "def": 153,
+         "sta": 62,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -10130,11 +10130,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1942,
+         "cpmax": 1751,
          "candy": 0,
          "atk": 196,
-         "def": 112,
-         "sta": 156,
+         "def": 114,
+         "sta": 122,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -10161,11 +10161,11 @@
          "name": "shedinja",
          "id": 292,
          "gender": {},
-         "cpmax": 393,
+         "cpmax": 421,
          "candy": 0,
          "atk": 153,
-         "def": 73,
-         "sta": 1,
+         "def": 80,
+         "sta": 2,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -10197,11 +10197,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 671,
+         "cpmax": 603,
          "candy": 12,
          "atk": 92,
          "def": 42,
-         "sta": 162,
+         "sta": 128,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -10233,11 +10233,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1327,
+         "cpmax": 1233,
          "candy": 50,
          "atk": 134,
          "def": 81,
-         "sta": 197,
+         "sta": 168,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -10266,11 +10266,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2347,
+         "cpmax": 2267,
          "candy": 0,
          "atk": 179,
-         "def": 137,
-         "sta": 232,
+         "def": 142,
+         "sta": 208,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -10302,11 +10302,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 817,
+         "cpmax": 745,
          "candy": 50,
          "atk": 99,
          "def": 54,
-         "sta": 176,
+         "sta": 144,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10335,11 +10335,11 @@
             "m": 0.75,
             "f": 0.25
          },
-         "cpmax": 2829,
+         "cpmax": 2765,
          "candy": 0,
          "atk": 209,
          "def": 114,
-         "sta": 302,
+         "sta": 288,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10369,11 +10369,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 364,
+         "cpmax": 316,
          "candy": 25,
          "atk": 36,
          "def": 71,
-         "sta": 137,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10409,11 +10409,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 993,
+         "cpmax": 831,
          "candy": 0,
          "atk": 82,
-         "def": 215,
-         "sta": 102,
+         "def": 236,
+         "sta": 60,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10445,11 +10445,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 739,
+         "cpmax": 659,
          "candy": 50,
          "atk": 84,
-         "def": 79,
-         "sta": 137,
+         "def": 84,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10478,11 +10478,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 1496,
+         "cpmax": 1385,
          "candy": 0,
          "atk": 132,
-         "def": 127,
-         "sta": 172,
+         "def": 132,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10512,11 +10512,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1476,
+         "cpmax": 1305,
          "candy": 0,
          "atk": 141,
-         "def": 136,
-         "sta": 137,
+         "def": 141,
+         "sta": 100,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -10546,11 +10546,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1634,
+         "cpmax": 1484,
          "candy": 0,
          "atk": 155,
-         "def": 141,
-         "sta": 137,
+         "def": 155,
+         "sta": 100,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -10583,11 +10583,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1307,
+         "cpmax": 1232,
          "candy": 25,
          "atk": 121,
-         "def": 141,
-         "sta": 137,
+         "def": 168,
+         "sta": 100,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -10620,11 +10620,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2056,
+         "cpmax": 2004,
          "candy": 100,
          "atk": 158,
-         "def": 198,
-         "sta": 155,
+         "def": 240,
+         "sta": 120,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -10654,11 +10654,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3000,
+         "cpmax": 3004,
          "candy": 0,
          "atk": 198,
-         "def": 257,
-         "sta": 172,
+         "def": 314,
+         "sta": 140,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -10691,11 +10691,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 693,
+         "cpmax": 555,
          "candy": 50,
          "atk": 78,
          "def": 107,
-         "sta": 102,
+         "sta": 60,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10725,11 +10725,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1431,
+         "cpmax": 1275,
          "candy": 0,
          "atk": 121,
          "def": 152,
-         "sta": 155,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10761,11 +10761,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 965,
+         "cpmax": 810,
          "candy": 50,
          "atk": 123,
          "def": 78,
-         "sta": 120,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10794,11 +10794,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2340,
+         "cpmax": 2131,
          "candy": 0,
          "atk": 215,
          "def": 127,
-         "sta": 172,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10827,11 +10827,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1778,
+         "cpmax": 1681,
          "candy": 0,
          "atk": 167,
-         "def": 129,
-         "sta": 155,
+         "def": 147,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10860,11 +10860,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1694,
+         "cpmax": 1585,
          "candy": 0,
          "atk": 147,
-         "def": 150,
-         "sta": 155,
+         "def": 167,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10892,11 +10892,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 1771,
+         "cpmax": 1620,
          "candy": 0,
          "atk": 143,
-         "def": 166,
-         "sta": 163,
+         "def": 171,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10924,11 +10924,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 1771,
+         "cpmax": 1620,
          "candy": 0,
          "atk": 143,
-         "def": 166,
-         "sta": 163,
+         "def": 171,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10961,11 +10961,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1870,
-         "candy": 100,
+         "cpmax": 1718,
+         "candy": 0,
          "atk": 186,
-         "def": 131,
-         "sta": 137,
+         "def": 148,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -10997,11 +10997,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 866,
+         "cpmax": 788,
          "candy": 50,
          "atk": 80,
          "def": 99,
-         "sta": 172,
+         "sta": 140,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11030,11 +11030,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1978,
+         "cpmax": 1872,
          "candy": 0,
          "atk": 140,
          "def": 159,
-         "sta": 225,
+         "sta": 200,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11067,11 +11067,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1020,
+         "cpmax": 874,
          "candy": 50,
          "atk": 171,
          "def": 39,
-         "sta": 128,
+         "sta": 90,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11101,11 +11101,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2181,
+         "cpmax": 1986,
          "candy": 0,
          "atk": 243,
          "def": 83,
-         "sta": 172,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11137,11 +11137,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1468,
+         "cpmax": 1424,
          "candy": 400,
          "atk": 136,
          "def": 68,
-         "sta": 277,
+         "sta": 260,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11170,11 +11170,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2280,
+         "cpmax": 2258,
          "candy": 0,
          "atk": 175,
          "def": 87,
-         "sta": 347,
+         "sta": 340,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11207,11 +11207,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1057,
+         "cpmax": 957,
          "candy": 50,
          "atk": 119,
-         "def": 79,
-         "sta": 155,
+         "def": 82,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11241,11 +11241,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2193,
+         "cpmax": 2016,
          "candy": 0,
          "atk": 194,
-         "def": 136,
-         "sta": 172,
+         "def": 139,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11274,11 +11274,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2093,
+         "cpmax": 2036,
          "candy": 0,
          "atk": 151,
-         "def": 203,
-         "sta": 172,
+         "def": 234,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11310,11 +11310,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1334,
+         "cpmax": 1285,
          "candy": 50,
          "atk": 125,
-         "def": 122,
-         "sta": 155,
+         "def": 145,
+         "sta": 120,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11343,11 +11343,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2369,
+         "cpmax": 2310,
          "candy": 0,
          "atk": 171,
-         "def": 188,
-         "sta": 190,
+         "def": 211,
+         "sta": 160,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11376,11 +11376,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1220,
+         "cpmax": 1088,
          "candy": 0,
          "atk": 116,
          "def": 116,
-         "sta": 155,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11412,11 +11412,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1274,
+         "cpmax": 1092,
          "candy": 25,
          "atk": 162,
          "def": 78,
-         "sta": 128,
+         "sta": 90,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -11449,11 +11449,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1225,
+         "cpmax": 1065,
          "candy": 100,
          "atk": 134,
          "def": 99,
-         "sta": 137,
+         "sta": 100,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -11483,11 +11483,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2661,
+         "cpmax": 2458,
          "candy": 0,
          "atk": 205,
          "def": 168,
-         "sta": 190,
+         "sta": 160,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -11519,11 +11519,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1242,
+         "cpmax": 1080,
          "candy": 50,
          "atk": 156,
          "def": 74,
-         "sta": 137,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11553,11 +11553,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2298,
+         "cpmax": 2092,
          "candy": 0,
          "atk": 221,
          "def": 115,
-         "sta": 172,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11590,11 +11590,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 824,
+         "cpmax": 722,
          "candy": 400,
          "atk": 76,
-         "def": 132,
-         "sta": 128,
+         "def": 139,
+         "sta": 90,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11624,11 +11624,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2004,
+         "cpmax": 1868,
          "candy": 0,
          "atk": 141,
-         "def": 201,
-         "sta": 181,
+         "def": 208,
+         "sta": 150,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11657,11 +11657,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2418,
+         "cpmax": 2214,
          "candy": 0,
          "atk": 222,
          "def": 124,
-         "sta": 177,
+         "sta": 146,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11690,11 +11690,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2105,
+         "cpmax": 1928,
          "candy": 0,
          "atk": 196,
          "def": 118,
-         "sta": 177,
+         "sta": 146,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11721,11 +11721,11 @@
          "name": "lunatone",
          "id": 337,
          "gender": {},
-         "cpmax": 2327,
+         "cpmax": 2245,
          "candy": 0,
          "atk": 178,
-         "def": 153,
-         "sta": 207,
+         "def": 163,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11752,11 +11752,11 @@
          "name": "solrock",
          "id": 338,
          "gender": {},
-         "cpmax": 2327,
+         "cpmax": 2245,
          "candy": 0,
          "atk": 178,
-         "def": 153,
-         "sta": 207,
+         "def": 163,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11789,11 +11789,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 819,
+         "cpmax": 716,
          "candy": 50,
          "atk": 93,
-         "def": 82,
-         "sta": 137,
+         "def": 83,
+         "sta": 100,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11823,11 +11823,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2075,
+         "cpmax": 1991,
          "candy": 0,
          "atk": 151,
-         "def": 141,
-         "sta": 242,
+         "def": 142,
+         "sta": 220,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -11859,11 +11859,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1230,
+         "cpmax": 1107,
          "candy": 50,
          "atk": 141,
-         "def": 99,
-         "sta": 125,
+         "def": 113,
+         "sta": 86,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11893,11 +11893,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2474,
+         "cpmax": 2317,
          "candy": 0,
          "atk": 224,
-         "def": 142,
-         "sta": 160,
+         "def": 156,
+         "sta": 126,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11927,11 +11927,11 @@
          "name": "baltoy",
          "id": 343,
          "gender": {},
-         "cpmax": 787,
+         "cpmax": 676,
          "candy": 50,
          "atk": 77,
-         "def": 124,
-         "sta": 120,
+         "def": 131,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11958,11 +11958,11 @@
          "name": "claydol",
          "id": 344,
          "gender": {},
-         "cpmax": 1971,
+         "cpmax": 1782,
          "candy": 0,
          "atk": 140,
-         "def": 229,
-         "sta": 155,
+         "def": 236,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -11995,11 +11995,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1291,
+         "cpmax": 1181,
          "candy": 50,
          "atk": 105,
-         "def": 150,
-         "sta": 165,
+         "def": 154,
+         "sta": 132,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12029,11 +12029,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2211,
+         "cpmax": 2081,
          "candy": 0,
          "atk": 152,
-         "def": 194,
-         "sta": 200,
+         "def": 198,
+         "sta": 172,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12066,11 +12066,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 1529,
+         "cpmax": 1310,
          "candy": 50,
          "atk": 176,
          "def": 100,
-         "sta": 128,
+         "sta": 90,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12100,11 +12100,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2848,
+         "cpmax": 2675,
          "candy": 0,
          "atk": 222,
-         "def": 174,
-         "sta": 181,
+         "def": 183,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12136,11 +12136,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 274,
+         "cpmax": 220,
          "candy": 100,
          "atk": 29,
-         "def": 85,
-         "sta": 85,
+         "def": 102,
+         "sta": 40,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12167,11 +12167,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3005,
+         "cpmax": 2967,
          "candy": 0,
          "atk": 192,
-         "def": 219,
-         "sta": 216,
+         "def": 242,
+         "sta": 190,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12200,11 +12200,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1632,
+         "cpmax": 1486,
          "candy": 0,
          "atk": 139,
          "def": 139,
-         "sta": 172,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12232,11 +12232,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2047,
+         "cpmax": 1924,
          "candy": 0,
          "atk": 161,
-         "def": 189,
-         "sta": 155,
+         "def": 212,
+         "sta": 120,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12271,11 +12271,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1018,
+         "cpmax": 872,
          "candy": 50,
          "atk": 138,
-         "def": 65,
-         "sta": 127,
+         "def": 66,
+         "sta": 88,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12304,11 +12304,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2298,
+         "cpmax": 2073,
          "candy": 0,
          "atk": 218,
-         "def": 126,
-         "sta": 162,
+         "def": 127,
+         "sta": 128,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12340,11 +12340,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 706,
-         "candy": 25,
+         "cpmax": 523,
+         "candy": 50,
          "atk": 70,
          "def": 162,
-         "sta": 85,
+         "sta": 40,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12376,11 +12376,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1591,
-         "candy": 100,
+         "cpmax": 1335,
+         "candy": 0,
          "atk": 124,
          "def": 234,
-         "sta": 120,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12410,11 +12410,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1941,
+         "cpmax": 1846,
          "candy": 0,
          "atk": 136,
-         "def": 163,
-         "sta": 223,
+         "def": 165,
+         "sta": 198,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12443,11 +12443,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2259,
+         "cpmax": 2095,
          "candy": 0,
          "atk": 175,
-         "def": 170,
-         "sta": 181,
+         "def": 174,
+         "sta": 150,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12476,11 +12476,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2526,
+         "cpmax": 2280,
          "candy": 0,
          "atk": 246,
          "def": 120,
-         "sta": 163,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12509,11 +12509,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 534,
+         "cpmax": 503,
          "candy": 25,
          "atk": 41,
          "def": 86,
-         "sta": 216,
+         "sta": 190,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12548,11 +12548,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 888,
+         "cpmax": 772,
          "candy": 50,
          "atk": 95,
          "def": 95,
-         "sta": 137,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12581,11 +12581,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2105,
+         "cpmax": 1945,
          "candy": 0,
          "atk": 162,
          "def": 162,
-         "sta": 190,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12618,11 +12618,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 962,
+         "cpmax": 876,
          "candy": 25,
          "atk": 95,
          "def": 90,
-         "sta": 172,
+         "sta": 140,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12655,11 +12655,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1714,
+         "cpmax": 1607,
          "candy": 100,
          "atk": 137,
          "def": 132,
-         "sta": 207,
+         "sta": 180,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12689,11 +12689,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2726,
+         "cpmax": 2606,
          "candy": 0,
          "atk": 182,
          "def": 176,
-         "sta": 242,
+         "sta": 220,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12726,11 +12726,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1270,
+         "cpmax": 1091,
          "candy": 50,
          "atk": 133,
-         "def": 135,
-         "sta": 111,
+         "def": 149,
+         "sta": 70,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12758,11 +12758,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2340,
+         "cpmax": 2140,
          "candy": 0,
          "atk": 197,
-         "def": 179,
-         "sta": 146,
+         "def": 194,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12791,11 +12791,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2494,
+         "cpmax": 2281,
          "candy": 0,
          "atk": 211,
-         "def": 179,
-         "sta": 146,
+         "def": 194,
+         "sta": 110,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12825,11 +12825,11 @@
             "m": 0.875,
             "f": 0.125
          },
-         "cpmax": 2528,
+         "cpmax": 2557,
          "candy": 0,
          "atk": 162,
-         "def": 203,
-         "sta": 225,
+         "def": 234,
+         "sta": 200,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12858,11 +12858,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 848,
+         "cpmax": 735,
          "candy": 0,
          "atk": 81,
-         "def": 128,
-         "sta": 125,
+         "def": 134,
+         "sta": 86,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -12894,11 +12894,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1156,
+         "cpmax": 1053,
          "candy": 25,
          "atk": 134,
-         "def": 93,
-         "sta": 128,
+         "def": 107,
+         "sta": 90,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12930,11 +12930,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2031,
+         "cpmax": 1958,
          "candy": 100,
          "atk": 172,
-         "def": 155,
-         "sta": 163,
+         "def": 179,
+         "sta": 130,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12964,11 +12964,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3749,
+         "cpmax": 3532,
          "candy": 0,
          "atk": 277,
          "def": 168,
-         "sta": 216,
+         "sta": 190,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -12998,11 +12998,11 @@
          "name": "beldum",
          "id": 374,
          "gender": {},
-         "cpmax": 976,
+         "cpmax": 843,
          "candy": 25,
          "atk": 96,
-         "def": 132,
-         "sta": 120,
+         "def": 141,
+         "sta": 80,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -13029,11 +13029,11 @@
          "name": "metang",
          "id": 375,
          "gender": {},
-         "cpmax": 1721,
+         "cpmax": 1570,
          "candy": 100,
          "atk": 138,
-         "def": 176,
-         "sta": 155,
+         "def": 185,
+         "sta": 120,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -13060,11 +13060,11 @@
          "name": "metagross",
          "id": 376,
          "gender": {},
-         "cpmax": 3791,
+         "cpmax": 3637,
          "candy": 0,
          "atk": 257,
-         "def": 228,
-         "sta": 190,
+         "def": 247,
+         "sta": 160,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -13090,11 +13090,11 @@
          "name": "regirock",
          "id": 377,
          "gender": {},
-         "cpmax": 3122,
+         "cpmax": 3087,
          "candy": 0,
          "atk": 179,
-         "def": 309,
-         "sta": 190,
+         "def": 356,
+         "sta": 160,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -13121,11 +13121,11 @@
          "name": "regice",
          "id": 378,
          "gender": {},
-         "cpmax": 3122,
+         "cpmax": 3087,
          "candy": 0,
          "atk": 179,
-         "def": 309,
-         "sta": 190,
+         "def": 356,
+         "sta": 160,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -13152,11 +13152,11 @@
          "name": "registeel",
          "id": 379,
          "gender": {},
-         "cpmax": 2447,
+         "cpmax": 2261,
          "candy": 0,
          "atk": 143,
          "def": 285,
-         "sta": 190,
+         "sta": 160,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -13186,11 +13186,11 @@
          "gender": {
             "f": 1
          },
-         "cpmax": 3510,
+         "cpmax": 3377,
          "candy": 0,
          "atk": 228,
-         "def": 246,
-         "sta": 190,
+         "def": 268,
+         "sta": 160,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -13220,11 +13220,11 @@
          "gender": {
             "m": 1
          },
-         "cpmax": 3812,
+         "cpmax": 3644,
          "candy": 0,
          "atk": 268,
-         "def": 212,
-         "sta": 190,
+         "def": 228,
+         "sta": 160,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -13251,11 +13251,11 @@
          "name": "kyogre",
          "id": 382,
          "gender": {},
-         "cpmax": 4115,
+         "cpmax": 4074,
          "candy": 0,
          "atk": 270,
-         "def": 228,
-         "sta": 205,
+         "def": 251,
+         "sta": 182,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -13281,11 +13281,11 @@
          "name": "groudon",
          "id": 383,
          "gender": {},
-         "cpmax": 4115,
+         "cpmax": 4074,
          "candy": 0,
          "atk": 270,
-         "def": 228,
-         "sta": 205,
+         "def": 251,
+         "sta": 182,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -13313,11 +13313,11 @@
          "name": "rayquaza",
          "id": 384,
          "gender": {},
-         "cpmax": 3835,
+         "cpmax": 3645,
          "candy": 0,
          "atk": 284,
          "def": 170,
-         "sta": 213,
+         "sta": 191,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -13345,11 +13345,11 @@
          "name": "jirachi",
          "id": 385,
          "gender": {},
-         "cpmax": 3265,
+         "cpmax": 3090,
          "candy": 0,
          "atk": 210,
          "def": 210,
-         "sta": 225,
+         "sta": 200,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -13376,11 +13376,11 @@
          "name": "deoxys-normal",
          "id": 386,
          "gender": {},
-         "cpmax": 3160,
+         "cpmax": 2749,
          "candy": 0,
          "atk": 345,
          "def": 115,
-         "sta": 137,
+         "sta": 100,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -14302,7 +14302,7 @@
          "attacks": {
             "fast": [
                2,
-               30
+               42
             ],
             "charged": [
                31
@@ -14574,7 +14574,7 @@
                127
             ],
             "charged": [
-               93,
+               5,
                8,
                4
             ]
@@ -14607,7 +14607,7 @@
                127
             ],
             "charged": [
-               93,
+               5,
                54,
                7
             ]
@@ -15192,7 +15192,7 @@
             ],
             "charged": [
                82,
-               81,
+               83,
                74
             ]
          },
@@ -15265,7 +15265,8 @@
                89
             ],
             "charged": [
-               35
+               35,
+               93
             ]
          },
          "evolves": [
@@ -15914,8 +15915,8 @@
          },
          "gen": 4,
          "species": [
-            12,
-            15
+            15,
+            12
          ],
          "evolves": [
             460
@@ -15951,8 +15952,8 @@
          },
          "gen": 4,
          "species": [
-            12,
-            15
+            15,
+            12
          ],
          "name": "abomasnow",
          "id": 460,
@@ -16230,7 +16231,7 @@
          "atk": 225,
          "def": 217,
          "sta": 198,
-         "buddy": 3,
+         "buddy": 1,
          "attacks": {
             "fast": [
                17,
@@ -16264,7 +16265,7 @@
          "atk": 231,
          "def": 156,
          "sta": 200,
-         "buddy": 3,
+         "buddy": 1,
          "attacks": {
             "fast": [
                30,
@@ -16595,7 +16596,7 @@
          "buddy": 5,
          "attacks": {
             "fast": [
-               141,
+               2,
                65
             ],
             "charged": [
@@ -21428,11 +21429,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 3014,
+         "cpmax": 2881,
          "candy": 0,
          "atk": 230,
-         "def": 153,
-         "sta": 216,
+         "def": 158,
+         "sta": 190,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -21468,11 +21469,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1632,
+         "cpmax": 1486,
          "candy": 0,
          "atk": 139,
          "def": 139,
-         "sta": 172,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -21507,11 +21508,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1632,
+         "cpmax": 1486,
          "candy": 0,
          "atk": 139,
          "def": 139,
-         "sta": 172,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -21546,11 +21547,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1632,
+         "cpmax": 1486,
          "candy": 0,
          "atk": 139,
          "def": 139,
-         "sta": 172,
+         "sta": 140,
          "buddy": 5,
          "attacks": {
             "fast": [
@@ -21582,11 +21583,11 @@
             }
          },
          "gender": {},
-         "cpmax": 2580,
+         "cpmax": 2244,
          "candy": 0,
          "atk": 414,
          "def": 46,
-         "sta": 137,
+         "sta": 100,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -21620,11 +21621,11 @@
             }
          },
          "gender": {},
-         "cpmax": 2274,
+         "cpmax": 1978,
          "candy": 0,
          "atk": 144,
          "def": 330,
-         "sta": 137,
+         "sta": 100,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -21658,11 +21659,11 @@
             }
          },
          "gender": {},
-         "cpmax": 2879,
+         "cpmax": 2504,
          "candy": 0,
          "atk": 230,
          "def": 218,
-         "sta": 137,
+         "sta": 100,
          "buddy": 20,
          "attacks": {
             "fast": [
@@ -21704,11 +21705,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 734,
+         "cpmax": 588,
          "candy": 25,
          "atk": 103,
          "def": 70,
-         "sta": 102,
+         "sta": 60,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -21746,11 +21747,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1705,
+         "cpmax": 1587,
          "candy": 0,
          "atk": 135,
-         "def": 154,
-         "sta": 181,
+         "def": 159,
+         "sta": 150,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -21791,11 +21792,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1293,
+         "cpmax": 1219,
          "candy": 50,
          "atk": 125,
-         "def": 129,
-         "sta": 137,
+         "def": 154,
+         "sta": 100,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -21833,11 +21834,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2432,
+         "cpmax": 2366,
          "candy": 0,
          "atk": 177,
-         "def": 195,
-         "sta": 181,
+         "def": 221,
+         "sta": 150,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -21877,11 +21878,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 883,
+         "cpmax": 774,
          "candy": 50,
          "atk": 96,
-         "def": 109,
-         "sta": 116,
+         "def": 122,
+         "sta": 76,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -21919,11 +21920,11 @@
             "m": 0.25,
             "f": 0.75
          },
-         "cpmax": 2309,
+         "cpmax": 2184,
          "candy": 0,
          "atk": 170,
-         "def": 193,
-         "sta": 177,
+         "def": 207,
+         "sta": 146,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -21963,11 +21964,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 797,
+         "cpmax": 679,
          "candy": 50,
          "atk": 99,
-         "def": 78,
-         "sta": 120,
+         "def": 81,
+         "sta": 80,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -22004,11 +22005,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1771,
+         "cpmax": 1614,
          "candy": 0,
          "atk": 158,
-         "def": 136,
-         "sta": 163,
+         "def": 139,
+         "sta": 130,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -22049,11 +22050,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1374,
+         "cpmax": 1269,
          "candy": 50,
          "atk": 135,
          "def": 90,
-         "sta": 190,
+         "sta": 160,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -22091,11 +22092,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2757,
+         "cpmax": 2709,
          "candy": 0,
          "atk": 190,
-         "def": 172,
-         "sta": 233,
+         "def": 184,
+         "sta": 210,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -22136,11 +22137,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1293,
+         "cpmax": 1193,
          "candy": 25,
          "atk": 132,
-         "def": 132,
-         "sta": 120,
+         "def": 163,
+         "sta": 80,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -22181,11 +22182,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1897,
+         "cpmax": 1815,
          "candy": 100,
          "atk": 164,
-         "def": 164,
-         "sta": 146,
+         "def": 196,
+         "sta": 110,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -22223,11 +22224,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2949,
+         "cpmax": 2916,
          "candy": 0,
          "atk": 211,
-         "def": 198,
-         "sta": 190,
+         "def": 229,
+         "sta": 160,
          "buddy": 1,
          "attacks": {
             "fast": [
@@ -22265,11 +22266,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 1835,
+         "cpmax": 1691,
          "candy": 0,
          "atk": 144,
-         "def": 186,
-         "sta": 155,
+         "def": 200,
+         "sta": 120,
          "buddy": 3,
          "attacks": {
             "fast": [
@@ -22307,11 +22308,11 @@
             "m": 0.5,
             "f": 0.5
          },
-         "cpmax": 2286,
+         "cpmax": 2143,
          "candy": 0,
          "atk": 201,
-         "def": 154,
-         "sta": 155,
+         "def": 172,
+         "sta": 120,
          "buddy": 1,
          "attacks": {
             "fast": [
