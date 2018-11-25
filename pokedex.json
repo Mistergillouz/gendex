@@ -1,5 +1,28 @@
 {
     "pokemons": {
+        "808": {
+            "loc": {
+                "en": "Meltan",
+                "fr": "Meltan"
+            },
+            "gen": 4,
+            "species": [],
+            "evolves": [
+                809
+            ],
+            "name": "meltan",
+            "id": 808
+        },
+        "809": {
+            "loc": {
+                "en": "Melmetal",
+                "fr": "Melmetal"
+            },
+            "gen": 4,
+            "species": [],
+            "name": "melmetal",
+            "id": 809
+        },
         "1": {
             "loc": {
                 "en": "Bulbasaur",
